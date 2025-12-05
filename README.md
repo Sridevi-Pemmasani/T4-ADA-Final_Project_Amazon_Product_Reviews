@@ -1,7 +1,7 @@
 # Amazon Product Review Analytics  
 ### Synthetic Data Generation | Sentiment Analysis | Recommendation Systems  
 **Master of Data Analytics – Predictive Analytics Project (DAMO-510-6)**  
-Team Members: Arya Kaippully · Catherine Calantoc · Jayasri Katragadda · Sridevi Pemmasani  
+Team Members: Sridevi Pemmasani · Catherine Calantoc · Jayasri Katragadda ·   Mounika Ravella
 
 ---
 
